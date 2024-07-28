@@ -10,12 +10,16 @@ However, while the data has been regularly updated, the team has yet to implemen
 <h2>Requirements</h2>
 
 <h3>1. Map</h3>
-Map (25 points)
-Markers for all bike stations (5 points)
-Station markers indicate popularity by color, size, shape, or some other means (5 points)
-Ability to change marker data based on month and year (5 points)
-Sections are marked by zip code (5 points)
-A write-up on the trends that were discovered while making the map (5 points)
+[insert map image here]
+- Map has markers for all bike stations
+- Station markers indicate popularity by color and size
+- Ability to change market data based on month
+- Sections are marked by zip code
+
+<h4>Analysis:</h4>
+[Insert A write-up on the trends that were discovered while making the map]
+
+
 Visualizations (25 points)
 4-10 total visualizations (5 points)
 A total of 2 Tableau dashboards, each dedicated to a specific data discovery (5 points)
