@@ -60,24 +60,33 @@ Link to Full Story can be found at: https://public.tableau.com/app/profile/court
 
 <h3>4. Analysis</h3>
 
-<pre><h3>Full Analysis</h3>
+<pre>Full Analysis
+  
   - <strong> CY24 Q3 Ride Statistics:</strong> Quarter three of the calendar year 2024 is showing an overall positive trend, with a gradual month-over-month increase in the number of rides. 
   Members continue to represent a substantial portion of the market, holding 79% of the overall market share. In our efforts to increase our bottom line by 3% this year,
   it may be beneficial to focus on attracting more casual riders, as they contribute revenue on a per-minute basis rather than through annual memberships. 
   Furthermore, enhancing the average ride length for casual riders, which currently ranges between 8 to 10 minutes, could also yield additional benefits.
+  
   - <strong>Casual Rider Statistics:</strong> As our focus this quarter is on casual riders, we will begin with a thorough analysis of the casual rider statistics from the previous quarter. 
   Notably, the intersection of West & Chambers has emerged as the most popular starting point for rides. This aligns with expectations, as many riders are drawn to destinations
   such as Washington Market Park and Hudson River Park. Interestingly, a significant number of riders begin their journeys in the afternoon to early evening, which may challenge
   the assumption that tourists—seeking to maximize their time in New York—constitute the majority of casual riders. Additionally, there is a trend indicating that casual riders
   favor electric bikes. This observation suggests that we may want to consider increasing the availability of electric bikes at our top 10 stations to attract more casual riders.
+  
   - <strong>Member Rider Statistics:</strong> As maintaining membership riders is crucial, let us now review the membership statistics for the last quarter. Notably, just over 40,000 riders selected West 21st St
   and 6th Avenue as their starting station. Membership riders are our regular users who predominantly utilize our services for commuting to and from work. This is evident as peak usage times
   occur around 8 AM and 5 PM, aligning with typical work hours. Additionally, these riders tend to prefer electric bikes over classic models, although they do utilize classic bikes more frequently
   than our casual riders. It is imperative that we ensure an adequate supply of bikes, particularly electric ones, at these key stations during peak hours.
+  
   - <strong>Most Popular Stations:</strong> Given that the majority of our riders are members, it is not unexpected to find that West 21st Street and 6th Avenue is the most frequented station,
   attracting over 45,000 riders concluding their journeys there. This station also ranks as the most popular among our member riders. Additionally, with NYU located near University Place and
   East 14th Street, it is not surprising that this area contributes to the second most popular station. This trend appears to be consistent month over month, at least for the past quarter.
-  As we strive to attract new casual riders while retaining our current members, it is essential that we continue to prioritize these top 10 stations.</pre>
+  As we strive to attract new casual riders while retaining our current members, it is essential that we continue to prioritize these top 10 stations.
+  
+  - <strong>Overall:</strong>In summary, the statistics from the last quarter align with our expectations. As we aim for continued growth, it is essential to prioritize not only the increase in
+  casual rider numbers but also the retention of our core members. To enhance our profitability and appeal to per-minute customers, we may want to explore the addition of more electric bikes at our most
+  frequented stations. Additionally, we might need to consider a potential increase in membership fees. While it is important to encourage our members to remain engaged with our services, facilitating a
+  transition for some to casual riding may ultimately benefit our organization.</pre>
 
 - Analysis is written in a markdown file
   
