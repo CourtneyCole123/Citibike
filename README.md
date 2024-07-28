@@ -60,16 +60,20 @@ Link to Full Story can be found at: https://public.tableau.com/app/profile/court
 
 <h3>4. Analysis</h3>
 
-<pre><strong>Full Analysis</strong>
-  - <u>CY24 Q3 Ride Statistics:</u> Quarter three of the calendar year 2024 is showing an overall positive trend, with a gradual month-over-month increase in the number of rides. 
+<pre><h6>Full Analysis</h6>
+  - <strong> CY24 Q3 Ride Statistics:</strong> Quarter three of the calendar year 2024 is showing an overall positive trend, with a gradual month-over-month increase in the number of rides. 
   Members continue to represent a substantial portion of the market, holding 79% of the overall market share. In our efforts to increase our bottom line by 3% this year,
   it may be beneficial to focus on attracting more casual riders, as they contribute revenue on a per-minute basis rather than through annual memberships. 
   Furthermore, enhancing the average ride length for casual riders, which currently ranges between 8 to 10 minutes, could also yield additional benefits.
-  - <u>Casual Rider Statistics:</u> As our focus this quarter is on casual riders, we will begin with a thorough analysis of the casual rider statistics from the previous quarter. 
+  - <strong>Casual Rider Statistics:</strong> As our focus this quarter is on casual riders, we will begin with a thorough analysis of the casual rider statistics from the previous quarter. 
   Notably, the intersection of West & Chambers has emerged as the most popular starting point for rides. This aligns with expectations, as many riders are drawn to destinations
   such as Washington Market Park and Hudson River Park. Interestingly, a significant number of riders begin their journeys in the afternoon to early evening, which may challenge
   the assumption that tourists—seeking to maximize their time in New York—constitute the majority of casual riders. Additionally, there is a trend indicating that casual riders
-  favor electric bikes. This observation suggests that we may want to consider increasing the availability of electric bikes at our top 10 stations to attract more casual riders. </pre>
+  favor electric bikes. This observation suggests that we may want to consider increasing the availability of electric bikes at our top 10 stations to attract more casual riders.
+  - <strong>Member Rider Statistics:</strong> As maintaining membership riders is crucial, let us now review the membership statistics for the last quarter. Notably, just over 40,000 riders selected West 21st St
+  and 6th Avenue as their starting station. Membership riders are our regular users who predominantly utilize our services for commuting to and from work. This is evident as peak usage times
+  occur around 8 AM and 5 PM, aligning with typical work hours. Additionally, these riders tend to prefer electric bikes over classic models, although they do utilize classic bikes more frequently
+  than our casual riders. It is imperative that we ensure an adequate supply of bikes, particularly electric ones, at these key stations during peak hours.</pre>
 
 - Analysis is written in a markdown file
   
