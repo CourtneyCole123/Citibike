@@ -23,7 +23,7 @@ Link to the map can be found here: https://public.tableau.com/app/profile/courtn
   
 - Sections are marked by zip code
 
-  <pre>Analysis:[Insert A write-up on the trends that were discovered while making the map]</pre>
+- See analysis below. 
 
 
 <h3>2. Visualizations</h3>
