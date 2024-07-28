@@ -13,11 +13,11 @@ However, while the data has been regularly updated, the team has yet to implemen
 [insert map image here]
 
 - Map has markers for all bike stations
-- 
+  
 - Station markers indicate popularity by color and size
-- 
+  
 - Ability to change market data based on month
-- 
+  
 - Sections are marked by zip code
 
 <h4>Analysis:</h4>
