@@ -60,7 +60,7 @@ Link to Full Story can be found at: https://public.tableau.com/app/profile/court
 
 <h3>4. Analysis</h3>
 
-<pre>**Full Analysis**
+<pre><strong>Full Analysis</strong>
   - CY24 Q3 Ride Statistics: Quarter three of the calendar year 2024 is showing an overall positive trend, with a gradual month-over-month increase in the number of rides. Members continue to represent a substantial portion of the market, holding 79% of the overall market share. In our efforts to increase our bottom line by 3% this year, it may be beneficial to focus on attracting more casual riders, as they contribute revenue on a per-minute basis rather than through annual memberships. Furthermore, enhancing the average ride length for casual riders, which currently ranges between 8 to 10 minutes, could also yield additional benefits.</pre>
 
 - Analysis is written in a markdown file
