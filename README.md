@@ -23,19 +23,29 @@ However, while the data has been regularly updated, the team has yet to implemen
   <pre>Analysis:[Insert A write-up on the trends that were discovered while making the map]</pre>
 
 
-Visualizations (25 points)
-4-10 total visualizations (5 points)
-A total of 2 Tableau dashboards, each dedicated to a specific data discovery (5 points)
-Dashboards are named appropriately (5 points)
-Data is cleaned such that data entry errors are removed and columns are correctly typed (5 points)
-Visualizations can logically be used to explore the data (5 points)
-Tableau Story (25 points)
-Individual visualizations are used (5 points)
-Dashboards are used (5 points)
-A map is used (5 points)
-Visualizations on the same page are clearly related to one another (5 points)
-The story is informative and easy to navigate (5 points)
-Analysis (25 points)
+<h3>2. Visualizations</h3>
+[insert visualization images here]
+
+- 4-10 total visualizations
+  
+- A total of 2 Tableau dashboards, each dedicated to a specific data discovery
+  
+- Dashboards are named appropriately
+
+- Data is cleaned such that data entry errors are removed and columns are correctly typed
+
+- Visualizations can logically be used to explore the data
+
+
+<h3>3. Tableau Story</h3>
+[insert link to Tableau Public here]
+
+- Dashboards are used
+- A map is used
+- Visualizations on the same page are clearly related to one another
+- The story is informative and easy to navigate
+
+Analysis
 Analysis is written in a markdown file or included in the Tableau Public workbook (5 points)
 Analysis describes the dashboards and any interesting data discoveries contained within them (5 points)
 Analysis on the chosen city official requested map detailing any noticeable trends (5 points)
