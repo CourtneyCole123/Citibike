@@ -38,7 +38,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 
 <h3>3. Tableau Story</h3>
-[insert link to Tableau Public here]
+Link to Full Story can be found at: https://public.tableau.com/app/profile/courtney.cole5352/viz/Citibike_final/CY24Q3Review?publish=yes
 
 - Dashboards are used
   
