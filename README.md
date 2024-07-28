@@ -9,7 +9,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 <h2>Requirements</h2>
 
-<h4>1. Map</h4>
+<h3>1. Map</h3>
 Map (25 points)
 Markers for all bike stations (5 points)
 Station markers indicate popularity by color, size, shape, or some other means (5 points)
