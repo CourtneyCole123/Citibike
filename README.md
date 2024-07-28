@@ -41,13 +41,23 @@ However, while the data has been regularly updated, the team has yet to implemen
 [insert link to Tableau Public here]
 
 - Dashboards are used
+  
 - A map is used
+  
 - Visualizations on the same page are clearly related to one another
+  
 - The story is informative and easy to navigate
 
-Analysis
-Analysis is written in a markdown file or included in the Tableau Public workbook (5 points)
-Analysis describes the dashboards and any interesting data discoveries contained within them (5 points)
-Analysis on the chosen city official requested map detailing any noticeable trends (5 points)
-The written analysis references specific visualizations and interactive features (5 points)
-The document is written in a manner that a non-technical reader could understand (5 points)# Citibike
+<h3>4. Analysis</h3>
+
+<pre>Full Analysis:</pre>
+
+- Analysis is written in a markdown file
+  
+- Analysis describes the dashboards and any interesting data discoveries contained within them
+  
+- Analysis on the chosen city official requested map detailing any noticeable trends
+  
+- The written analysis references specific visualizations and interactive features
+  
+- The document is written in a manner that a non-technical reader could understand
