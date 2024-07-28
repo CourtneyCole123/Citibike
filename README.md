@@ -61,11 +61,11 @@ Link to Full Story can be found at: https://public.tableau.com/app/profile/court
 <h3>4. Analysis</h3>
 
 <pre><strong>Full Analysis</strong>
-  - CY24 Q3 Ride Statistics: Quarter three of the calendar year 2024 is showing an overall positive trend, with a gradual month-over-month increase in the number of rides. 
+  - <u>CY24 Q3 Ride Statistics:</u> Quarter three of the calendar year 2024 is showing an overall positive trend, with a gradual month-over-month increase in the number of rides. 
   Members continue to represent a substantial portion of the market, holding 79% of the overall market share. In our efforts to increase our bottom line by 3% this year,
   it may be beneficial to focus on attracting more casual riders, as they contribute revenue on a per-minute basis rather than through annual memberships. 
   Furthermore, enhancing the average ride length for casual riders, which currently ranges between 8 to 10 minutes, could also yield additional benefits.
-  - Casula Rider Statistics: As our focus this quarter is on casual riders, we will begin with a thorough analysis of the casual rider statistics from the previous quarter. 
+  - <u>Casual Rider Statistics:</u> As our focus this quarter is on casual riders, we will begin with a thorough analysis of the casual rider statistics from the previous quarter. 
   Notably, the intersection of West & Chambers has emerged as the most popular starting point for rides. This aligns with expectations, as many riders are drawn to destinations
   such as Washington Market Park and Hudson River Park. Interestingly, a significant number of riders begin their journeys in the afternoon to early evening, which may challenge
   the assumption that tourists—seeking to maximize their time in New York—constitute the majority of casual riders. Additionally, there is a trend indicating that casual riders
