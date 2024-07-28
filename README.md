@@ -10,7 +10,9 @@ However, while the data has been regularly updated, the team has yet to implemen
 <h2>Requirements</h2>
 
 <h3>1. Map</h3>
-[insert map image here]
+Link to Map can be found here: https://public.tableau.com/app/profile/courtney.cole5352/viz/Citibike_final/CY24Q3Review?publish=yes
+
+![image](https://github.com/user-attachments/assets/a5566bd0-947a-4435-873d-8a3ace9b7817)
 
 - Map has markers for all bike stations
   
@@ -24,7 +26,13 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 
 <h3>2. Visualizations</h3>
-[insert visualization images here]
+Link to Visualizations can be found here: https://public.tableau.com/app/profile/courtney.cole5352/viz/Citibike_final/CY24Q3Review?publish=yes
+
+![image](https://github.com/user-attachments/assets/eea5864e-5af2-4169-ac6e-8f5f321e514f)
+
+![image](https://github.com/user-attachments/assets/14e46c6d-2a93-41ae-bf96-7052721a43af)
+
+![image](https://github.com/user-attachments/assets/2ef6d342-c6d0-4e0e-b91b-22e0d4d74f99)
 
 - 4-10 total visualizations
   
