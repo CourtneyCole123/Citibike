@@ -20,9 +20,7 @@ However, while the data has been regularly updated, the team has yet to implemen
   
 - Sections are marked by zip code
 
-  <h4>Analysis:</h4>
-
-  [Insert A write-up on the trends that were discovered while making the map]
+  <pre>Analysis:[Insert A write-up on the trends that were discovered while making the map]</pre>
 
 
 Visualizations (25 points)
